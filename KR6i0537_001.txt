@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 831
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0537_T_001-0876a> 
 #+PROPERTY: JUAN 1
 ¶
@@ -214,7 +214,7 @@ No. 831¶
 
 「多軼他(台邏反是長音，不言長者盡是短音句)阿制(句)阿車婆坻(句)¶
 阿那(長音)毘麗(句)阿施黎殺(詩債反，句)阿訖吏帝(句)阿那¶
-由系(句)阿系(句)阿毘何(長音)離(句)阿婆(重音，不言重者悉是輕音)¶
+由系(句)阿系(句)阿毘何(長音)離(句)陁婆(重音，不言重者悉是輕音)¶
 婆(句)頭樓唐鵝磨(句)由多若多(長音)納波囉頗閉¶
 (句)尼伽地(持債反，句)憂伽囉系(句)侯侯迷(無詣反，句)遮波¶
 麗(句)娑遲摩細(句)三摩提(句)余(長音)知(句)那耶波離¶
